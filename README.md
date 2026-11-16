@@ -601,3 +601,4 @@ Licensed under [MIT License](./LICENSE)
 [GoDoc Widget]: https://godoc.org/github.com/go-chi/chi?status.svg
 [Travis]: https://travis-ci.org/go-chi/chi
 [Travis Widget]: https://travis-ci.org/go-chi/chi.svg?branch=master
+Checked by a Durative mac-plan agent.
